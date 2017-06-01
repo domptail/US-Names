@@ -3,7 +3,7 @@
 ## Introduction:
 
 This is a short analysis of first names in the US between 1880 and 2015 using SQL.
-The data files can be downloaded from the US Social Security [Website] (https://www.ssa.gov/oact/babynames/limits.html)
+The data files can be downloaded from the US Social Security [Website](https://www.ssa.gov/oact/babynames/limits.html)
 
 There are 136 txt files, each corresponding to one year between 1880 and 2015.
 
@@ -16,8 +16,10 @@ There are 1,858,689 entries in total.
 
 ## Methodology:
 
-The purpose of this project was to practice SQL queries.
+The purpose of this project was to practice SQL queries and visualization in Tableau.
 
-First, the data from all 136 files were uploaded into one table using SQL Bulk Insert. 
+First, the data from all 136 files were uploaded into one table using SQL Bulk Insert (see [query](https://github.com/domptail/US-Names/blob/master/SQLQueryCreateDatabase.sql)). 
+
+To be continued.
 
 
