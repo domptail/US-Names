@@ -12,7 +12,6 @@ GO
 RECONFIGURE
 GO
 
-
 --Create and use new database 
 CREATE DATABASE USNamesDB
 GO
