@@ -40,4 +40,3 @@ VALUES
 GO
 
 SELECT * FROM USPresidents
-
