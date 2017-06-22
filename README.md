@@ -20,11 +20,11 @@ The purpose of this project was to practice SQL queries.
 
 First, the data from all 136 files were uploaded into one table using SQL Bulk Insert in a Cursor (see [query](https://github.com/domptail/US-Names/blob/master/SQLQueryCreateDatabase.sql)). 
 
-Second, two additional tables were created with the first names of US Presidents during the same period (see [query](https://github.com/domptail/US-Names/blob/master/SQLQueryCreateUSPresidentsTable.sql) and first names in France between 1900 and 2015 (see [query](https://github.com/domptail/US-Names/blob/master/SQLQueryCreateFRNamesTable.sql)).
+Second, two additional tables were created with the first names of US Presidents during the same period (see [query](https://github.com/domptail/US-Names/blob/master/SQLQueryCreateUSPresidentsTable.sql)) and first names in France between 1900 and 2015 (see [query](https://github.com/domptail/US-Names/blob/master/SQLQueryCreateFRNamesTable.sql)).
 
 Third, the data were analyzed using SQL SELECT statements (see [query](https://github.com/domptail/US-Names/blob/master/SQLQueryNameTrends.sql)).
 
-Finally, some visualizations were prepared using Power BI based on the results of the SQL queries.
+Finally, some visualizations were prepared using Power BI and/or Python based on the results of the SQL queries.
 
 ## Content:
 
